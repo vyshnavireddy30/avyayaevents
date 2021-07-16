@@ -1543,7 +1543,7 @@ section {
   }
 }
 @media (max-width: 768px) {
-  .card-img-top img
+  .card-img-top .img
   {
     width: 20rem;
   }
