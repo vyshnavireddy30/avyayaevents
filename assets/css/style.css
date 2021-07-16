@@ -943,6 +943,14 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+--------------------------------------------------------------*/
+@media (max-width: 768px) {
+  .owl-carousel portfolio-details-carousel img
+  {
+    width:300px;
+    height:200px;
+  }
+}
 .portfolio #portfolio-flters {
   list-style: none;
   margin-bottom: 20px;
